@@ -29,4 +29,4 @@ You can [@mention](https://github.com/blog/821) a GitHub username to generate a 
 
 ### <a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact
 
-Having trouble with Pages? Check out the documentation at [http://help.github.com/pages](http://help.github.com/pages) or contact [support@github.com](mailto:support@github.com") and we’ll help you sort it out.
+Also lets talk about emoji :bear:
