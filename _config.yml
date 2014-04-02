@@ -2,3 +2,6 @@ pygments: true
 markdown: redcarpet
 baseurl:
 version: 2.1.0
+gems:
+- jekyll-mentions
+- jemoji
