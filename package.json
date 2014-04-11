@@ -1,0 +1,23 @@
+{
+  "name": "cwmma.github.io",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "enfield": "git://github.com/fortes/enfield.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "enfield build --safe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cwmma/cwmma.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwmma/cwmma.github.io/issues"
+  },
+  "homepage": "https://github.com/cwmma/cwmma.github.io"
+}
