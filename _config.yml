@@ -6,3 +6,4 @@ exclude: ['node_modules']
 gems:
 - jekyll-mentions
 - jemoji
+dataPath: "cwmma/cwmma.github.io"
